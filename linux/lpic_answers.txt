@@ -1,0 +1,103 @@
+ANSWERS
+1	Correct Answer: C
+2	Correct Answer: AD
+3	Correct Answer: AC
+4	Correct Answer: BCE Section: System Architecture Explanation
+5	Correct Answer: cmdline -or- /proc/cmdline
+6	Correct Answer: ABD Section: System Architecture Explanation
+7	Correct Answer: CD
+8	Correct Answer: B
+9	Correct Answer: dmesg -or- /bin/dmesg Section: System Architecture Explanation
+10	Correct Answer: D
+11	Correct Answer: D
+12	Correct Answer: E
+13	Correct Answer: D
+14	Correct Answer: A
+15	Correct Answer: B
+16	Correct Answer: ABD
+17	Correct Answer: A
+18	Correct Answer: D
+19	Correct Answer: C
+20	Correct Answer: /tmp -or- tmp -or- /var/tmp -or- /tmp/ -or- /var/tmp/ Section: Linux Installation and Package Management Explanatio
+21	Correct Answer: B
+22	Correct Answer: /etc/yum.repos.d -or- /etc/yum.repos.d/ -or- yum.repos.d -or- yum.repos.d/
+23	Correct Answer: menu.lst -or- grub.conf -or- grub.cfg Section: Linux Installation and Package Management Explanatio
+24	Correct Answer: C
+25	Correct Answer: D
+26	Correct Answer: update -or- upgrade
+27	Correct Answer: swapoff -or- /sbin/swapoff
+28	Correct Answer: dpkg-reconfigure
+29	Correct Answer: C
+30	Correct Answer: B
+31	Correct Answer: C
+32	Correct Answer: D
+33	Correct Answer: B
+34	Correct Answer: B
+35	Correct Answer: D
+36	Correct Answer: HUP -or- SIGHUP -or- 1 Section: GNU and Unix Commands Explanation
+37	Correct Answer: B
+38	Correct Answer: C
+39	Correct Answer: E
+40	Correct Answer: A
+41	Correct Answer: D
+42	Correct Answer: D
+43	Correct Answer: C
+44	Correct Answer: A
+45	Correct Answer: A
+46	Correct Answer: B
+47	Correct Answer: B
+48	Correct Answer: B
+49	Correct Answer: jobs
+50	Correct Answer: B
+51	Correct Answer: B
+52	Correct Answer: C
+53	Correct Answer: B
+54	Correct Answer: A
+55	Correct Answer: HISTFILE
+56	Correct Answer: B
+57	Correct Answer: C
+58	Correct Answer: B
+59	Correct Answer: D
+60	Correct Answer: AB
+61	Correct Answer: B
+62	Correct Answer: B
+63	Correct Answer: B
+64	Correct Answer: D
+65	Correct Answer: AD
+66	Correct Answer: C
+67	Correct Answer: E
+68	Correct Answer: C
+69	Correct Answer: D
+70	Correct Answer: C
+71	Correct Answer: B
+72	Correct Answer: D
+73	Correct Answer: D
+74	Correct Answer: C
+75	Correct Answer: C
+76	Correct Answer: mkdir -or- /usr/bin/mkdir Section: GNU and Unix Commands Explanation
+77	Correct Answer: CD
+78	Correct Answer: C
+79	Correct Answer: B
+80	Correct Answer: AC
+81	Correct Answer: ABC
+82	Correct Answer: B
+83	Correct Answer: CE
+84	Correct Answer: B
+85	Correct Answer: A
+86	Correct Answer: C
+87	Correct Answer: D
+88	Correct Answer: D
+89	Correct Answer: B
+90	Correct Answer: AC
+91	Correct Answer: E
+92	Correct Answer: C
+93	Correct Answer: A
+94	Correct Answer: D
+95	Correct Answer: quotacheck
+96	Correct Answer: C
+97	Correct Answer: E
+98	Correct Answer: AB
+99	Correct Answer: A
+100	Correct Answer: C
+101	Correct Answer: AC
+102	Correct Answer: D
