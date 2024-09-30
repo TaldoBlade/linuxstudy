@@ -1,1 +1,0 @@
-# LPIC/Linux study documents
